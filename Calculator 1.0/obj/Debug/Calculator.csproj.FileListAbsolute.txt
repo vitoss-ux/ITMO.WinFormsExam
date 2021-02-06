@@ -1,0 +1,32 @@
+D:\Изучение C#\Projects\ITMO\C#_WinForms\Новая папка\Calculator\bin\Debug\Calculator.exe.config
+D:\Изучение C#\Projects\ITMO\C#_WinForms\Новая папка\Calculator\bin\Debug\Calculator.exe
+D:\Изучение C#\Projects\ITMO\C#_WinForms\Новая папка\Calculator\bin\Debug\Calculator.pdb
+D:\Изучение C#\Projects\ITMO\C#_WinForms\Новая папка\Calculator\obj\Debug\Calculator.Form1.resources
+D:\Изучение C#\Projects\ITMO\C#_WinForms\Новая папка\Calculator\obj\Debug\Calculator.Properties.Resources.resources
+D:\Изучение C#\Projects\ITMO\C#_WinForms\Новая папка\Calculator\obj\Debug\Calculator.csproj.GenerateResource.cache
+D:\Изучение C#\Projects\ITMO\C#_WinForms\Новая папка\Calculator\obj\Debug\Calculator.csproj.CoreCompileInputs.cache
+D:\Изучение C#\Projects\ITMO\C#_WinForms\Новая папка\Calculator\obj\Debug\Calculator.exe
+D:\Изучение C#\Projects\ITMO\C#_WinForms\Новая папка\Calculator\obj\Debug\Calculator.pdb
+D:\Изучение C#\Projects\ITMO\C#_WinForms\Новая папка\Calculator\obj\Debug\Calculator.Form2.resources
+D:\Изучение C#\Projects\ITMO\C#_WinForms\Новая папка\Calculator\obj\Debug\Calculator.csprojAssemblyReference.cache
+C:\Users\Виталий\Desktop\Резерв\Calculator 2.0\bin\Debug\Calculator.exe.config
+C:\Users\Виталий\Desktop\Резерв\Calculator 2.0\bin\Debug\Calculator.exe
+C:\Users\Виталий\Desktop\Резерв\Calculator 2.0\bin\Debug\Calculator.pdb
+C:\Users\Виталий\Desktop\Резерв\Calculator 2.0\obj\Debug\Calculator.csprojAssemblyReference.cache
+C:\Users\Виталий\Desktop\Резерв\Calculator 2.0\obj\Debug\Calculator.Form1.resources
+C:\Users\Виталий\Desktop\Резерв\Calculator 2.0\obj\Debug\Calculator.Form2.resources
+C:\Users\Виталий\Desktop\Резерв\Calculator 2.0\obj\Debug\Calculator.Properties.Resources.resources
+C:\Users\Виталий\Desktop\Резерв\Calculator 2.0\obj\Debug\Calculator.csproj.GenerateResource.cache
+C:\Users\Виталий\Desktop\Резерв\Calculator 2.0\obj\Debug\Calculator.csproj.CoreCompileInputs.cache
+C:\Users\Виталий\Desktop\Резерв\Calculator 2.0\obj\Debug\Calculator.exe
+C:\Users\Виталий\Desktop\Резерв\Calculator 2.0\obj\Debug\Calculator.pdb
+D:\Изучение C#\Projects\ITMO\C#_WinFormCalc\Calculator 1.0\bin\Debug\Calculator.exe.config
+D:\Изучение C#\Projects\ITMO\C#_WinFormCalc\Calculator 1.0\bin\Debug\Calculator.exe
+D:\Изучение C#\Projects\ITMO\C#_WinFormCalc\Calculator 1.0\bin\Debug\Calculator.pdb
+D:\Изучение C#\Projects\ITMO\C#_WinFormCalc\Calculator 1.0\obj\Debug\Calculator.Form1.resources
+D:\Изучение C#\Projects\ITMO\C#_WinFormCalc\Calculator 1.0\obj\Debug\Calculator.Form2.resources
+D:\Изучение C#\Projects\ITMO\C#_WinFormCalc\Calculator 1.0\obj\Debug\Calculator.Properties.Resources.resources
+D:\Изучение C#\Projects\ITMO\C#_WinFormCalc\Calculator 1.0\obj\Debug\Calculator.csproj.GenerateResource.cache
+D:\Изучение C#\Projects\ITMO\C#_WinFormCalc\Calculator 1.0\obj\Debug\Calculator.csproj.CoreCompileInputs.cache
+D:\Изучение C#\Projects\ITMO\C#_WinFormCalc\Calculator 1.0\obj\Debug\Calculator.exe
+D:\Изучение C#\Projects\ITMO\C#_WinFormCalc\Calculator 1.0\obj\Debug\Calculator.pdb
