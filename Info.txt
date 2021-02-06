@@ -1,0 +1,19 @@
+You are welcome!
+Calculator v.1.0
+
+This simple app has 2 modes: 
+standard and scientific.
+
+Standard mode functions:
+	- Addition;
+	- Subtraction;
+	- Multiplication;
+	- Division.
+Scientific mode functions:
+	- Exponent;
+	- Inverse;
+	- Square root;
+	- Сubic root;
+	- Square number;
+	- Factorial;
+	- Quadratic equation. 
